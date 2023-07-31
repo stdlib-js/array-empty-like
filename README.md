@@ -41,7 +41,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import emptyLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-empty-like@esm/index.mjs';
+import emptyLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-empty-like@v0.0.1-esm/index.mjs';
 ```
 
 #### emptyLike( x\[, dtype] )
@@ -113,7 +113,7 @@ var arr = emptyLike( x, 'int32' );
 
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-dtypes@esm/index.mjs';
 import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros@esm/index.mjs';
-import emptyLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-empty-like@esm/index.mjs';
+import emptyLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-empty-like@v0.0.1-esm/index.mjs';
 
 // Create a zero-filled array:
 var x = zeros( 4, 'complex128' );
