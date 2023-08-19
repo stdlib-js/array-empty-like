@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "@stdlib/array-dtype": "^0.0.6",
-    "@stdlib/array-empty": "github:stdlib-js/array-empty#main",
+    "@stdlib/array-empty": "^0.0.1",
     "@stdlib/string-format": "^0.0.3",
     "@stdlib/types": "^0.0.14"
   },
