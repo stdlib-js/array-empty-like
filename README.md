@@ -168,6 +168,16 @@ for ( i = 0; i < dt.length; i++ ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-empty`][@stdlib/array/empty]</span><span class="delimiter">: </span><span class="description">create an uninitialized array having a specified length.</span>
+-   <span class="package-name">[`@stdlib/array-full-like`][@stdlib/array/full-like]</span><span class="delimiter">: </span><span class="description">create a filled array having the same length and data type as a provided array.</span>
+-   <span class="package-name">[`@stdlib/array-ones-like`][@stdlib/array/ones-like]</span><span class="delimiter">: </span><span class="description">create an array filled with ones and having the same length and data type as a provided array.</span>
+-   <span class="package-name">[`@stdlib/array-zeros-like`][@stdlib/array/zeros-like]</span><span class="delimiter">: </span><span class="description">create a zero-filled array having the same length and data type as a provided array.</span>
+-   <span class="package-name">[`@stdlib/ndarray-empty-like`][@stdlib/ndarray/empty-like]</span><span class="delimiter">: </span><span class="description">create an uninitialized ndarray having the same shape and data type as a provided ndarray.</span>
+
 </section>
 
 <!-- /.related -->
@@ -240,6 +250,20 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/array-empty-like/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/array-empty-like/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/array/empty]: https://github.com/stdlib-js/array-empty
+
+[@stdlib/array/full-like]: https://github.com/stdlib-js/array-full-like
+
+[@stdlib/array/ones-like]: https://github.com/stdlib-js/array-ones-like
+
+[@stdlib/array/zeros-like]: https://github.com/stdlib-js/array-zeros-like
+
+[@stdlib/ndarray/empty-like]: https://github.com/stdlib-js/ndarray-empty-like
+
+<!-- </related-links> -->
 
 </section>
 
