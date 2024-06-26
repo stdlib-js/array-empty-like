@@ -44,6 +44,7 @@
     "@stdlib/error-tools-fmtprodmsg": "^0.2.1"
   },
   "devDependencies": {
+    "@stdlib/array-bool": "^0.0.1",
     "@stdlib/array-complex128": "^0.2.1",
     "@stdlib/array-complex64": "^0.2.1",
     "@stdlib/array-dtypes": "^0.2.1",
@@ -106,6 +107,7 @@
     "uint8clampedarray",
     "complex128array",
     "complex64array",
+    "booleanarray",
     "complex128",
     "complex64",
     "complex",
@@ -132,6 +134,7 @@
     "clamped",
     "short",
     "long",
+    "bool",
     "generic",
     "empty",
     "empty-like"
