@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import emptyLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-empty-like@deno/mod.js';
+import emptyLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-empty-like@v0.3.1-deno/mod.js';
 ```
 
 #### emptyLike( x\[, dtype] )
@@ -104,7 +104,7 @@ var arr = emptyLike( x, 'int32' );
 ```javascript
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-dtypes@deno/mod.js';
 import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros@deno/mod.js';
-import emptyLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-empty-like@deno/mod.js';
+import emptyLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-empty-like@v0.3.1-deno/mod.js';
 
 // Create a zero-filled array:
 var x = zeros( 4, 'complex128' );
