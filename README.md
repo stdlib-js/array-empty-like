@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import emptyLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-empty-like@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-empty-like/tags). For example,
+
+```javascript
 import emptyLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-empty-like@v0.3.1-deno/mod.js';
 ```
 
@@ -104,7 +109,7 @@ var arr = emptyLike( x, 'int32' );
 ```javascript
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-dtypes@deno/mod.js';
 import zeros from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-zeros@deno/mod.js';
-import emptyLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-empty-like@v0.3.1-deno/mod.js';
+import emptyLike from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-empty-like@deno/mod.js';
 
 // Create a zero-filled array:
 var x = zeros( 4, 'complex128' );
