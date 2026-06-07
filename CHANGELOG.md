@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-14)
+## Unreleased (2026-06-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`0962cbd`](https://github.com/stdlib-js/stdlib/commit/0962cbd0669a21d5118d4805dfe39f4a3db9f9ad) - **bench:** use `empty` rather than `zeros` _(by Athan Reines)_
 -   [`5cad666`](https://github.com/stdlib-js/stdlib/commit/5cad666695971ba8af5bc2392893d1f32687a1f1) - **bench:** refactor to use string interpolation in `array/empty-like` [(#10484)](https://github.com/stdlib-js/stdlib/pull/10484) _(by Aman Singh)_
 
 </details>
@@ -24,9 +25,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Singh
+-   Athan Reines
 
 </section>
 
