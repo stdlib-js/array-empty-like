@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-09)
+## Unreleased (2026-08-12)
+
+<section class="features">
+
+### Features
+
+-   [`d6c5a8b`](https://github.com/stdlib-js/stdlib/commit/d6c5a8b0ab1b4414cbe893963d5a7d7cc02e1282) - add float16 dtype support to `array/empty-like` [(#14190)](https://github.com/stdlib-js/stdlib/pull/14190)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`d6c5a8b`](https://github.com/stdlib-js/stdlib/commit/d6c5a8b0ab1b4414cbe893963d5a7d7cc02e1282) - **feat:** add float16 dtype support to `array/empty-like` [(#14190)](https://github.com/stdlib-js/stdlib/pull/14190) _(by Samarth Kolarkar)_
 -   [`3901886`](https://github.com/stdlib-js/stdlib/commit/3901886ff5ff6bdbcfd65ea52109fee0b0e1ff03) - **docs:** fix examples and descriptions in top-level `array` declarations [(#12375)](https://github.com/stdlib-js/stdlib/pull/12375) _(by Philipp Burckhardt, Athan Reines)_
 -   [`0962cbd`](https://github.com/stdlib-js/stdlib/commit/0962cbd0669a21d5118d4805dfe39f4a3db9f9ad) - **bench:** use `empty` rather than `zeros` _(by Athan Reines)_
 -   [`5cad666`](https://github.com/stdlib-js/stdlib/commit/5cad666695971ba8af5bc2392893d1f32687a1f1) - **bench:** refactor to use string interpolation in `array/empty-like` [(#10484)](https://github.com/stdlib-js/stdlib/pull/10484) _(by Aman Singh)_
@@ -26,11 +37,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Singh
 -   Athan Reines
 -   Philipp Burckhardt
+-   Samarth Kolarkar
 
 </section>
 
